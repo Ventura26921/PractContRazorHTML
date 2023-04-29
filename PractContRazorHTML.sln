@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PractContRazorHTML", "PractContRazorHTML.csproj", "{3C5EC6D3-9B54-420C-B3FE-DD2E1358C583}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3C5EC6D3-9B54-420C-B3FE-DD2E1358C583}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3C5EC6D3-9B54-420C-B3FE-DD2E1358C583}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3C5EC6D3-9B54-420C-B3FE-DD2E1358C583}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3C5EC6D3-9B54-420C-B3FE-DD2E1358C583}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4F3427EE-6447-461B-89C0-4BBFB907C80E}
+	EndGlobalSection
+EndGlobal
